@@ -29,9 +29,7 @@ Algoritmo Ejercicios_Reales
 	definir ancho,largo Como Real
 	Escribir  "multiplicar el area"
 	Leer ancho,largo
-	area=3.14*2.5
+	area=largo*ancho
 	escribir "el resultado total del area,=",area
-	
-	
 	
 FinAlgoritmo
